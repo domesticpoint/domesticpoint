@@ -1,4 +1,6 @@
 # Domestic point
 Set Private
 
-Th=is repo contains documentation of data and algorithms. Please keep these in seperate folders.
+## This repo contains documentation of data and algorithms. Please keep these in seperate folders.
+
+### 1. Create Prototype
